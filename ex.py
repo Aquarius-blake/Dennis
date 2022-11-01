@@ -1,6 +1,4 @@
 
-
-
 def action():
     income=float(input("Enter Income"))
     Expen=float(input("Enter Daily Expenditure"))
