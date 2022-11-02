@@ -23,3 +23,6 @@ def action():
         print("Saving $"+ str(result))
         
 action()
+
+def something():
+    return ""
