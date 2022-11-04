@@ -8,6 +8,7 @@ def action():
                      '''))
     Texpen=Expen*30
     
+    
     if Status==1:
         addition=(income*45)/100
         final=Texpen+addition
